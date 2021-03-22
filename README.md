@@ -2,7 +2,7 @@
 
 ## Project Overview of Election Audit
 A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election.<br>
-The purpose of this project was to break out analysis based off candidates and counties.
+The purpose of this project was to break out analysis based on both candidates and counties.
 
 ### County Analysis
 The Board of Elections employee was interested in a breakdown of each of the following for each county:
