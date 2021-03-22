@@ -24,6 +24,9 @@ The Board of Elections employee was interested in a breakdown of each of the fol
 ## Election-Audit Results
 
 The analysis of the election is summarized in the following image:
+<p align="center">
+    <img  src="https://github.com/smyoung88/Election_Analysis/tree/main/analysis/election_results.txt" title="Colorado Election Results">
+</p>
 
 
 ## Challenge Summary
