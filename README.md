@@ -30,7 +30,7 @@ The analysis of the election is summarized in the following image generated from
 
 ## Challenge Summary
 The script that was generated for this challenge can be utilized and modified in many ways for future elections. Some of those ways are summarized below:
-1. Initially, the commission was only interested in results by candidate and then decided they wanted statistics based off of the county. If any other data is gathered during the election like age, sex, nationality, etc. that is of interest, the code can be modified to include those categories just like it was done with counties. As seen in the following snapshot of code, only a few extra lists, dictionaries, and variable needed to be added to generate those statistics i.e. county_options, county_votes, highest_turnout, cwinning_count, and cwinning_percentage.
+1. Initially, the commission was only interested in results by candidate and then decided they wanted statistics based off of the county. If any other data is gathered during the election like age, sex, nationality, etc. that is of interest, the code can be modified to include those categories just like it was done with counties. As seen in the following snapshot of code, only a few extra lists, dictionaries, and variables needed to be added to generate those statistics i.e. county_options, county_votes, highest_turnout, cwinning_count, and cwinning_percentage.
 <p align="center">
 <img src="https://github.com/smyoung88/Election_Analysis/blob/main/analysis/Script_categories.png">
 </p>
