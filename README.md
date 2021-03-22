@@ -35,6 +35,7 @@ The script that was generated for this challenge can be utilized and modified in
 <img src="https://github.com/smyoung88/Election_Analysis/blob/main/analysis/Script_categories.png">
 </p>
 2. If the commission employee went from being in charge of only Colorado's results to many states and more election results were received from multiple states (more files in 'Resources'), those additional election_results files could be added to the code and separate results could be pulled within the same script.
+
 <p align="center">
 <img src="https://github.com/smyoung88/Election_Analysis/blob/main/analysis/resources_and_analysis.png">
 </p>
