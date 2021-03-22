@@ -23,11 +23,10 @@ The Board of Elections employee was interested in a breakdown of each of the fol
 
 ## Election-Audit Results
 
-The analysis of the election is summarized in the following image:
-<p align="center">
+The analysis of the election is summarized in the following image generated from the text file delivered to the Board of Elections:
+<p align="left">
     <img src="https://github.com/smyoung88/Election_Analysis/blob/main/analysis/election_results_image.png">
 </p>
-
 
 ## Challenge Summary
 
